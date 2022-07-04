@@ -3,6 +3,7 @@ Este es un bot para enviar mensajes masivos en whatsapp
 
 
 Instrucciones: 
+---
 1.-Primero se debe instalar python desde la pagina oficial: https://www.python.org/downloads/
 ---
 2.-Dentro de tu compilador favorito instalar extenciones en mi caso VS Instalamos extencion Python: ms-python.python
